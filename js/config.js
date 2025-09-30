@@ -152,7 +152,6 @@ const API_SITES = {
     huangcang: {
         api: 'https://hsckzy.vip',
         name: '黄色仓库',
-        detail: 'https://hsckzy.vip'
         adult: true
     },
     yutu: {
