@@ -13,7 +13,7 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
+    name: '7Kan',
     url: 'https://libretv.is-an.org',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
@@ -153,6 +153,7 @@ const API_SITES = {
         api: 'https://hsckzy.vip',
         name: '黄色仓库',
         detail: 'https://hsckzy.vip'
+        adult: true
     },
     yutu: {
         api: 'https://yutuzy10.com',
