@@ -34,41 +34,20 @@ const API_SITES = {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     },
-    tyyszy: {
-        api: 'https://tyyszy.com/api.php/provide/vod',
-        name: '天涯资源',
-    },
-    xiaomaomi: {
-        api: 'https://zy.xmm.hk/api.php/provide/vod',
-        name: '小猫咪资源',
-    },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
-    heimuer: {
-        api: 'https://json.heimuer.xyz/api.php/provide/vod',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv', 
-    },
-    zy360: {
+   zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     },
-    iqiyi: {
-        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
-        name: 'iqiyi资源',
-    },
-    wolong: {
+   wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     }, 
-    hwba: {
-        api: 'https://cjhwba.com/api.php/provide/vod',
-        name: '华为吧资源',
-    },
-    jisu: {
+  jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
         detail: 'https://jszyapi.com', 
@@ -124,22 +103,12 @@ const API_SITES = {
         name: 'jkun资源',
         adult: true
     },
-    bwzy: {
-        api: 'https://api.bwzym3u8.com',
-        name: '百万资源',
-        adult: true
-    },
-    souav: {
+   souav: {
         api: 'https://api.souavzy.vip',
         name: 'souav资源',
         adult: true
     },
-    r155: {
-        api: 'https://155api.com',
-        name: '155资源',
-        adult: true
-    },
-    lsb: {
+   lsb: {
         api: 'https://apilsbzy1.com',
         name: 'lsb资源',
         adult: true
@@ -159,10 +128,6 @@ const API_SITES = {
     subo: {
         api: 'https://subocaiji.com/api.php/provide/vod',
         name: '速播资源'
-    },
-    fczy: {
-        api: 'https://api.fczy888.me/api.php/provide/vod',
-        name: '蜂巢资源'
     },
     ukzy: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
